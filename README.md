@@ -2,7 +2,7 @@
 
 ## Nombre: __Christopher Ortiz__  
 #### Edad: 19  
-Áreas de interés se basan en las ciencias fisicas dentro del ambito de ciencias sociales e incluso ciencias básicas 
+Áreas de interés se basan en las ciencias fisicas dentro del ambito de ciencias sociales e incluso ciencias básicas  
 - Estudiante de Geografía de la Universidad de Costa Rica  
 - Estudiante de segundo año de carrera
 - Estudiante tiempo completo  
@@ -14,7 +14,7 @@
 
 ![Paisaje Montañoso](lago2.jpg)
 
-***Imagen obtenida de Wikimedia Commons***
+<img src="lago2.jpg" alt="Lago" Width="500" height="300">
 
 Es dueño de una  Chihuahua
 
