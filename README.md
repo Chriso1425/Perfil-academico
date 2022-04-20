@@ -12,7 +12,7 @@
     3. Fundamentos de geografía  
     4. Humanidades 1 y 2 
 
-![Paisaje Montañoso](lago.jpg)
+![Paisaje Montañoso](lago2.jpg)
 
 ***Imagen obtenida de Wikimedia Commons***
 
